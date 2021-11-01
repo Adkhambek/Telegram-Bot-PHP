@@ -1,7 +1,7 @@
 <?php
 require_once 'Telegram.php';
 require_once 'user.php';
-$telegram = new Telegram('1096316270:AAGSkNxTvjQkqsd4Jrkwid0l7jzug1XVzQc');
+$telegram = new Telegram('token');
 
 $chat_id = $telegram->ChatID();
 $text = $telegram->Text();
