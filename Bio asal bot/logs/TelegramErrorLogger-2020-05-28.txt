@@ -1,0 +1,141 @@
+============[Date]============
+[ 2020-05-28 10:38:53  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 1101037
+ref.message.message_id= 777
+ref.message.from.id= 456613303
+ref.message.from.is_bot= false
+ref.message.from.first_name= Adham
+ref.message.from.username= Heaven_8
+ref.message.from.language_code= en
+ref.message.chat.id= 456613303
+ref.message.chat.first_name= Adham
+ref.message.chat.username= Heaven_8
+ref.message.chat.type= private
+ref.message.date= 1590651532
+ref.message.text= 🍯 Borib olish 🍯
+
+
+[ref]
+ref.chat_id= 
+ref.reply_markup= {"keyboard":[[{"text":"Boshqa buyurtma berish","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+ref.text= Yangi buyurtma keldi!
+Hajm: 1.5kg (1L) - 75 000 so'm
+Telefon raqam: 998944050818
+
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/bot.php(193): Telegram->sendMessage(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/bot.php(53): showReady()
+#5 {main}
+
+============[Date]============
+[ 2020-05-28 10:39:13  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 1101043
+ref.message.message_id= 790
+ref.message.from.id= 456613303
+ref.message.from.is_bot= false
+ref.message.from.first_name= Adham
+ref.message.from.username= Heaven_8
+ref.message.from.language_code= en
+ref.message.chat.id= 456613303
+ref.message.chat.first_name= Adham
+ref.message.chat.username= Heaven_8
+ref.message.chat.type= private
+ref.message.date= 1590651552
+ref.message.reply_to_message.message_id= 789
+ref.message.reply_to_message.from.id= 1096316270
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= honey
+ref.message.reply_to_message.from.username= honeyexpress_bot
+ref.message.reply_to_message.chat.id= 456613303
+ref.message.reply_to_message.chat.first_name= Adham
+ref.message.reply_to_message.chat.username= Heaven_8
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1590651544
+ref.message.reply_to_message.text= Yaxshi, endi, lokatsiya jo'nating!
+ref.message.location.latitude= 41.4663
+ref.message.location.longitude= 69.362126
+
+
+[ref]
+ref.chat_id= 
+ref.reply_markup= {"keyboard":[[{"text":"Boshqa buyurtma berish","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+ref.text= Yangi buyurtma keldi!
+Hajm: 4.5kg (3L) - 220 000 so'm
+Telefon raqam: 998944050818
+
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/bot.php(193): Telegram->sendMessage(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/bot.php(64): showReady()
+#5 {main}
+
+============[Date]============
+[ 2020-05-28 10:39:13  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 1101043
+ref.message.message_id= 790
+ref.message.from.id= 456613303
+ref.message.from.is_bot= false
+ref.message.from.first_name= Adham
+ref.message.from.username= Heaven_8
+ref.message.from.language_code= en
+ref.message.chat.id= 456613303
+ref.message.chat.first_name= Adham
+ref.message.chat.username= Heaven_8
+ref.message.chat.type= private
+ref.message.date= 1590651552
+ref.message.reply_to_message.message_id= 789
+ref.message.reply_to_message.from.id= 1096316270
+ref.message.reply_to_message.from.is_bot= true
+ref.message.reply_to_message.from.first_name= honey
+ref.message.reply_to_message.from.username= honeyexpress_bot
+ref.message.reply_to_message.chat.id= 456613303
+ref.message.reply_to_message.chat.first_name= Adham
+ref.message.reply_to_message.chat.username= Heaven_8
+ref.message.reply_to_message.chat.type= private
+ref.message.reply_to_message.date= 1590651544
+ref.message.reply_to_message.text= Yaxshi, endi, lokatsiya jo'nating!
+ref.message.location.latitude= 41.4663
+ref.message.location.longitude= 69.362126
+
+
+[ref]
+ref.chat_id= 
+ref.latitude= 41.4663
+ref.longitude= 41.4663
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/Telegram.php(751): Telegram->endpoint('sendLocation', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/bot.php(197): Telegram->sendLocation(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/adhamHosting/bot.php(64): showReady()
+#5 {main}
+
