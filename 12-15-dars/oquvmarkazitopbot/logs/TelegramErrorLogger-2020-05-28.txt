@@ -1,0 +1,197 @@
+============[Date]============
+[ 2020-05-28 19:44:27  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 199628804
+ref.message.message_id= 21
+ref.message.from.id= 635793263
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mirafzal
+ref.message.from.last_name= Shavkatov
+ref.message.from.username= Mirafzal_Shavkatov
+ref.message.from.language_code= ru
+ref.message.chat.id= 635793263
+ref.message.chat.first_name= Mirafzal
+ref.message.chat.last_name= Shavkatov
+ref.message.chat.username= Mirafzal_Shavkatov
+ref.message.chat.type= private
+ref.message.date= 1590684266
+ref.message.text= Русский 🇷🇺
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"keyboard":[[{"text":"\ud83d\udd16 \u0412\u044b\u0431\u043e\u0440 \u0443\u0447\u0435\u0431\u043d\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430","request_contact":false,"request_location":false},{"text":"\ud83d\udc8e ","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(64): Telegram->sendMessage(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(21): showMainPage()
+#5 {main}
+
+============[Date]============
+[ 2020-05-28 19:45:10  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= 
+ref.reply_markup= {"keyboard":[[{"text":"\ud83d\udd16 ","request_contact":false,"request_location":false},{"text":"\ud83d\udc8e ","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(66): Telegram->sendMessage(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(14): showMainPage()
+#5 {main}
+
+============[Date]============
+[ 2020-05-28 19:45:11  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= 
+ref.reply_markup= {"keyboard":[[{"text":"\ud83d\udd16 ","request_contact":false,"request_location":false},{"text":"\ud83d\udc8e ","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(66): Telegram->sendMessage(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(14): showMainPage()
+#5 {main}
+
+============[Date]============
+[ 2020-05-28 19:46:26  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 199628806
+ref.message.message_id= 23
+ref.message.from.id= 635793263
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mirafzal
+ref.message.from.last_name= Shavkatov
+ref.message.from.username= Mirafzal_Shavkatov
+ref.message.from.language_code= ru
+ref.message.chat.id= 635793263
+ref.message.chat.first_name= Mirafzal
+ref.message.chat.last_name= Shavkatov
+ref.message.chat.username= Mirafzal_Shavkatov
+ref.message.chat.type= private
+ref.message.date= 1590684386
+ref.message.text= O'zbek tili 🇺🇿
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"keyboard":[[{"text":"\ud83d\udd16 \u0412\u044b\u0431\u043e\u0440 \u0443\u0447\u0435\u0431\u043d\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430","request_contact":false,"request_location":false},{"text":"\ud83d\udc8e ","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(66): Telegram->sendMessage(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(14): showMainPage()
+#5 {main}
+
+============[Date]============
+[ 2020-05-28 19:46:29  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 199628807
+ref.message.message_id= 24
+ref.message.from.id= 635793263
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mirafzal
+ref.message.from.last_name= Shavkatov
+ref.message.from.username= Mirafzal_Shavkatov
+ref.message.from.language_code= ru
+ref.message.chat.id= 635793263
+ref.message.chat.first_name= Mirafzal
+ref.message.chat.last_name= Shavkatov
+ref.message.chat.username= Mirafzal_Shavkatov
+ref.message.chat.type= private
+ref.message.date= 1590684388
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"keyboard":[[{"text":"\ud83d\udd16 \u0412\u044b\u0431\u043e\u0440 \u0443\u0447\u0435\u0431\u043d\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430","request_contact":false,"request_location":false},{"text":"\ud83d\udc8e ","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(66): Telegram->sendMessage(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(14): showMainPage()
+#5 {main}
+
+============[Date]============
+[ 2020-05-28 19:46:30  Europe/Moscow ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 199628808
+ref.message.message_id= 26
+ref.message.from.id= 635793263
+ref.message.from.is_bot= false
+ref.message.from.first_name= Mirafzal
+ref.message.from.last_name= Shavkatov
+ref.message.from.username= Mirafzal_Shavkatov
+ref.message.from.language_code= ru
+ref.message.chat.id= 635793263
+ref.message.chat.first_name= Mirafzal
+ref.message.chat.last_name= Shavkatov
+ref.message.chat.username= Mirafzal_Shavkatov
+ref.message.chat.type= private
+ref.message.date= 1590684390
+ref.message.text= O'zbek tili 🇺🇿
+
+
+[ref]
+ref.text= 
+ref.reply_markup= {"keyboard":[[{"text":"\ud83d\udd16 \u0412\u044b\u0431\u043e\u0440 \u0443\u0447\u0435\u0431\u043d\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430","request_contact":false,"request_location":false},{"text":"\ud83d\udc8e ","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(66): Telegram->sendMessage(Array)
+#4 /home/b/bunnypeace/roboss.uz/public_html/oquvmarkazitopbot/bot.php(14): showMainPage()
+#5 {main}
+
